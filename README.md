@@ -102,24 +102,21 @@ The official website is available for project information, features, screenshots
 📱 Screenshots
 
 
-"https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-d6dc745e596f4cb0ccb8fe788e246401793b7c7995afa090d112ed81eea767d3"
+## 📱 Screenshots
 
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/sumitkumartiwari19-sudo/Privacy-Policy/main/Screenshot_2026-09-06-08-44-28-79_4cb8d6df0c724449f2aafcd88ddfda5a.jpg" width="250">
 
-"[ https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-9fe1f71ab6399b48ac91c5c0a4c533ccd0f4695260dfc1b902adffa6f5a15233 ]"
+<img src="https://raw.githubusercontent.com/sumitkumartiwari19-sudo/Privacy-Policy/main/Screenshot_2026-09-06-08-45-30-30_4cb8d6df0c724449f2aafcd88ddfda5a.jpg" width="250">
 
+<img src="https://raw.githubusercontent.com/sumitkumartiwari19-sudo/Privacy-Policy/main/Screenshot_2026-09-06-08-45-59-61_4cb8d6df0c724449f2aafcd88ddfda5a.jpg" width="250">
 
+<img src="https://raw.githubusercontent.com/sumitkumartiwari19-sudo/Privacy-Policy/main/Screenshot_2026-09-06-08-46-17-48_4cb8d6df0c724449f2aafcd88ddfda5a.jpg" width="250">
 
-https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-f41b34be155f1139cc1d8624e31a8ab544742a2969e886ad712dfa6c76243a50
+<img src="https://raw.githubusercontent.com/sumitkumartiwari19-sudo/Privacy-Policy/main/Screenshot_2026-09-06-08-46-28-54_4cb8d6df0c724449f2aafcd88ddfda5a.jpg" width="250">
 
-
-
-https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-b0b7ec1e9fde3179b44f42896d2fd888b0a1c5e203402277213dd07461d6db33
-
-
-
-https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-fac81f6b075d418cbde3d3ffbf12118879418c4d7861d987450741ffe7ca6c90
-
+</p>
 
 
 
