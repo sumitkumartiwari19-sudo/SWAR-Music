@@ -1,0 +1,6 @@
+{
+  "name": "SWAR Music",
+  "description": "YouTube-powered music streaming app with a custom neumorphic soft UI design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

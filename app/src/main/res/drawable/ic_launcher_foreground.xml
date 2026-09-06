@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- SWAR Music Logo: Musical Note & Waves in Mint Accent #33C29B -->
+    <path
+        android:fillColor="#33C29B"
+        android:pathData="M56,32L56,61.5C53.7,60.5 50.9,60 48,60C41.4,60 36,63.6 36,68C36,72.4 41.4,76 48,76C54.4,76 59.6,72.6 60,68.4L60,40L72,36.5L72,32L56,32Z" />
+    <!-- Audio Wave Accent Bars -->
+    <path
+        android:fillColor="#33C29B"
+        android:pathData="M66,46L70,45L70,55L66,56Z" />
+    <path
+        android:fillColor="#33C29B"
+        android:pathData="M74,44L78,43L78,57L74,58Z" />
+</vector>
