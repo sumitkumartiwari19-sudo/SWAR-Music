@@ -101,31 +101,27 @@ The official website is available for project information, features, screenshots
 
 📱 Screenshots
 
-«Screenshots will be added here.»
 
-Home
+"https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-d6dc745e596f4cb0ccb8fe788e246401793b7c7995afa090d112ed81eea767d3"
 
-"[ Screenshot URL ]"
 
-Library
 
-"[ Screenshot URL ]"
+"[ https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-9fe1f71ab6399b48ac91c5c0a4c533ccd0f4695260dfc1b902adffa6f5a15233 ]"
 
-Music Player
 
-"[ Screenshot URL ]"
 
-Mini Player
+https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-f41b34be155f1139cc1d8624e31a8ab544742a2969e886ad712dfa6c76243a50
 
-"[ Screenshot URL ]"
 
-Lyrics
 
-"[ Screenshot URL ]"
+https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-b0b7ec1e9fde3179b44f42896d2fd888b0a1c5e203402277213dd07461d6db33
 
-Playlists
 
-"[ Screenshot URL ]"
+
+https://github.com/sumitkumartiwari19-sudo/Privacy-Policy/commit/d5663e68b224136fd739279b15d3ac4377bd3f35#diff-fac81f6b075d418cbde3d3ffbf12118879418c4d7861d987450741ffe7ca6c90
+
+
+
 
 ---
 
